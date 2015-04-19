@@ -1,0 +1,63 @@
+Crypto stuffs---
+"The code breakers" -- David Kahn (1996)
+
+Then...same thingy is repeated over and over..
+Symmetric ciphers.. explaining how message transferred..
+refer [notes 1 & 2], okay ashu? =)
+Encryption formula:-
+c:=E(k,m)
+Decryption formula:-
+m:=D(k,c)
+
+Historical Examples:- (*_*)
+(1) Substitution cipher
+k:=a->i,...h->y...,s->l,...u->a...z->g
+c:=E(k,"ig")="az"
+m:=D(k,"az")="ig"
+
+Caesar cipher (no key)
+-- Fixed substitution
+Eg:- shift by 3, (i.e.)k=3
+=> the alphabets in the message gets shifted by 3 alphabets
+=> For eg:- ashu => dvkx => ashu
+
+what is the size of key space in the substitution cipher assuming 26 letters?
+Answer:- |k| = 26! (26 factorial)
+A substitution cipher is a table of 26 permutations
+26! => 2^88, where each key is represented by 88 bits.
+
+How to break a substitution cipher?
+(i) Usage of frequent english alphabets
+e => 12.7%
+t => 9.1%
+a => 8.1%
+(ii) Usage of frequent english pairs
+"he", "an", "in", "th"
+
+(2) Vigener cipher (16th century, Rome)
+k = i g i g (k=2)
+m = a s h u
+c = j y r b
+m:=D(k,c)
+
+(3) Rotor Machines (1870-1943)
+Eg: Hebern machine (single rotor)
+Everytime, one pressing => one nudge
+if c is pressed three times, then the machine nudges 3 times..
+c pressed first time => i
+c pressed second time => g
+Like it goes down... the keys are collected.
+but, it turns out to be more complicated..
+Then....
+the most "Enigma" which had 3-5 rotors
+rotor position = 26^4 = 2^18
+overall keys = 2^36
+
+(4) Data Encryption Standard (DES - 1974)
+keys = 2^56, 
+block size = 64 bits
+DES can be broken through Brute Force attack.
+
+At present, 
+-- AES [Advanced Encryption Standards - 128 bits key](2001), 
+-- Salsa20(2008)

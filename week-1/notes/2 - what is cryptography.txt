@@ -1,0 +1,85 @@
+The core of cryptography consists of,
+(i) Secret key establishment
+At the end of the protocol, the shared key 'k' is passed between two users..
+The blah-blah attacker doesn't know wtf shared is!
+(ii) Secure Communication 
+Once they have shared key, both users can exchange messages confidentially.
+The blah-blah attacker can't rob the messages.
+
+Examples
+(a) Digital Signatures
+Why digital signature is important?
+-- The relationship between signature and physical world means,
+Essentially when we write a love letter, 
+we put a signature in the bottom to verify,
+that it's we who is actually sending the letter.
+but...but...
+In digital world, the physical thingy doesn't work well.
+Why?
+The attacker can copy my signature and paste it...
+And can send it to numerous weirdos getting me in trouble.
+This is where physical signatures gives issues.
+That's why we are going for digital signature..
+So..
+How digital signature works?
+Function of the content being signed.
+And so if the attacker tries to copy my signature,
+the signature content won't be exactly copied.
+Since the signature is not verified, so the attacker can't play with my nose.
+
+(b) Anonymous Communication (mix net)
+Through a sequence of proxy thingy..
+the user 1 can make secret communication with user 2..
+And the user 2 has no idea whom he/she communicated to.. ;)
+This is more like confusing the proxies...
+Eg: Anonymous digital cash
+The example is more similar to Amazon gift card (o_o)
+
+Abstract Protocols:
+Examples--
+(a) Elections (explanation on how election center can find the winner)
+When a voter votes, a key gets generated, then it's decrypted.
+Election person 1:- 0
+Election person 2:- 1
+10000 voting for 1 and 5000 for 0,
+then 15000 different keys gets generated, while decrypting,
+it's converted to 1 and 0 (election person 2 & 1).
+But, the voters info won't be known at all.
+(b) Private auctions (Figuring out who will be highest bidder and the runner-up)
+In these both examples,
+there is something called as "secure multi-party computation".
+Let 4 voters secret inputs be ig1, ig2, ig3, ig4
+Computations done by f(ig1,ig2,ig3,ig4), where f is the function
+There will be a trusted 3rd party authority who collects these inputs.
+Bottom line is...
+Anything can be done with or without trusted authority..
+huh, really? (o_O)
+
+Alright... Next comes Crypto-magic...
+This magic displays (i) "privately outsourcing computation"
+Googly Boogly is the example..
+For eg:- If an user makes a search query, 
+then the search keyword in encrypted form goes to Googly Boogly server and the encrypted results are generated,
+And it's sent back to the back getting decrypted.
+The magic is the algorithm that is used in-between. (Seriously??... ufff)
+And the Googly Boogly doesn't know what that user actually searched.
+The another magic is (ii) Zero knowledge (Proof of knowledge)
+Eg:- (stupid example)
+User-1 knows that ice X cream + ice X cream = icecream + icecream = 2 icecream
+But, user-1 will convince user-2 that both icecreams makes it to 2 icecream,
+where user-2 have no knowledge that ice comes from the cream and cream comes from the ice.
+
+Another Eg:- (clever example)
+Take any opensource company code, 
+the explanation won't be clearly given,
+but it still convinces outside developers that it's opensource,
+where the outside developers have zero knowledge about code secrets or the cracking part.
+This is how opensource mantra works. =P
+
+Then........Hmmm.............
+3 steps of cryptography:-
+(I find that this is more like a research proposal and proof)
+Understanding these 3-steps might help in building a cool security research patent i guess ;)
+(i) threat model specification
+(ii) construction proposal
+(iii) Proving that the construction proposal under the threat model specification that will help in solving a particular problem or issue...

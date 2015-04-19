@@ -1,0 +1,64 @@
+Cryptography
+-- a great tool
+-- provides a base for security mechanisms
+-- oh but... but...
+(a)it's not a solution to all security issues
+Egs: software bugs, social engineering
+(b)it's not reliable if not implemented nor used properly
+Egs: WEP contains many mistakes in it (Wi-Fi traffic)
+(c)Not something to invent
+Egs:Broken ad-hoc designs
+
+What can crytography do?
+
+1. Secure communication
+Where it occurs?
+-- Web Traffic (done through HTTPS...SSL) Hmmm... (o_O)
+-- Wireless traffic such as (i)802.11i WPA2, (ii)GSM, (iii)Bluetooth
+
+Explanation:-
+Web client --> Web Server
+Communication access through HTTPS with the help of SSL/TLS
+
+For SSL/TLS, two main parts are:-
+(a) Handshake protocol
+-- Establishes shared secret key using public-key cryptography
+(will be discussed in detail on Cryptography II)
+(b) Record layer
+-- Data transmission done using shared secret key
+-- Provides confidentiality and integrity
+(will be discussed in detail on this Crytography I)
+
+2. File Disk Encryption
+-- EFS
+-- Truecrypt
+
+Building blocks:-
+-- Symmetric Encryption Systems
+
+Users A and B shares a message (m) theough a private key 'k' (128 bits)
+The cipher (c) process that is represented as,
+E, D : cipher
+where E = Encryption, D = Decryption
+During encryption, E(k,m)=c
+And Decryption as D(k,c)=m
+Note:- Encryption algorithm => publicly known.
+Never ever think about going for proprietory cipher since it's easy to break.
+The only secret lies in the key.
+
+Use cases for keys:-
+(a) Single use key --- one-time key
+Encrypts one messages
+Encrypts one mail and a new key will be generated
+For next mail, another new key will be generated
+Same key will not be used
+(b) Multi use key --- many-time key
+Encrypts multiple messages
+Same key used in encrypting multiple files
+Requires a lot of machinery inorder to make sure that one-time (same) key usage is secure or not
+
+3. Content protection
+-- DVDs - CSS (Easy to break)
+-- Blu-ray - AACS
+
+4. User authentication

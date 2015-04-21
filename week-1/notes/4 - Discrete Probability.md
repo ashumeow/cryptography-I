@@ -10,3 +10,6 @@ VI - <a href="http://geekresearchlab.net/coursera/d-math/random-algm.jpg">Random
 VII - <a href="http://geekresearchlab.net/coursera/d-math/independence.jpg">Independence</a> <br>
 VIII - <a href="http://geekresearchlab.net/coursera/d-math/xor-prop.jpg">Property of XOR</a> <br>
 IX - <a href="http://geekresearchlab.net/coursera/d-math/birthday.jpg">Birthday Paradox</a> <br>
+<br>
+<b>Recommended reading:</b><br>
+http://en.wikibooks.org/wiki/High_School_Mathematics_Extensions/Discrete_Probability

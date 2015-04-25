@@ -1,6 +1,7 @@
 I have less than 3 months of Python experience and I solved it. <br>
 So, you can also solve it if you put more focus. Do reference anyywhere since it's open test. =P <br>
-I will not share full solution...But, I'll share how i did it.. Maybe, i will share it later if my mind convinces me to share it.
+I will not share full solution...But, I'll share how i did it.. <br>
+Maybe, i will share the full solution later if my mind convinces me to share it.
 <br> <br>
 <code>Hint: XOR the ciphertexts together, and consider what happens when a space is XORed with a character in [a-zA-Z].</code>
 <br><br>
@@ -37,7 +38,7 @@ def meowFormatHex(a):
 Then... XOR the hex.. 
 ```py
 def meowXor(a,b):
-    return formathex(hex(int(a,16)^ord(b)))
+    return meowFormatHex(hex(int(a,16)^ord(b)))
 ```
 Then, start adding manual keys...
 ```py
@@ -98,6 +99,14 @@ Include a container, also something that stores the positions after XOR-ing the 
 container = ['00' for i in range(len(target))]
 position = [0 for i in range(len(target))]
 displayText = [0 for i in range(len(target))]
+```
+Configuring the positions...
+```py
+for k in range(len(position)):
+    if position[k] > 6:
+        container[k] = ' '
+        position[k] = 0
+        displayText[k] = 0
 ```
 <br>
 Easily deciphered the text:-

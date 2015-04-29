@@ -10,7 +10,7 @@ IV.B.<a href="http://geekresearchlab.net/coursera/crypto1/code-size-perf-tradeof
 V. AES - Examples <br>
 V.A.<a href="http://geekresearchlab.net/coursera/crypto1/aes-example-JS.jpg">Javascript</a><br>
 V.B.<a href="http://geekresearchlab.net/coursera/crypto1/aes-example-hardware.jpg">Hardware</a><br>
-VI.<a href="http://geekresearchlab.net/coursera/crypto1/aes-attacks.jpg">AES Attacks</a> <br>
+VI.<a href="http://geekresearchlab.net/coursera/crypto1/aes-attacks.jpg">AES Attacks</a> -- <code>use random keys instead to avoid this issue</code> <br>
 <br>
 <b>Shared Resource:</b><br>
 [1]<a href="http://crypto.stanford.edu/sjcl/">Stanford - SJCL</a>

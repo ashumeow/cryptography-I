@@ -1,8 +1,8 @@
 ```
-Construction modes being discussed here... <br>
-Construction 1: Cipher Block Chaining (CBC) mode <br>
-Construction 1.1: Nonce-based CBC mode <br>
-Construction 2: Randomized Counter (CTR) mode <br>
+Construction modes being discussed here... 
+Construction 1: Cipher Block Chaining (CBC) mode 
+Construction 1.1: Nonce-based CBC mode 
+Construction 2: Randomized Counter (CTR) mode 
 Construction 2.1: Nonce-based Counter mode
 ```
 <b>Part - 1 </b><br>

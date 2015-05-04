@@ -25,4 +25,13 @@ $ cd "/c/python27/pycrypto"
 
 $ python setup.py install build --compiler=mingw32
 
-Damn... Screw this fucking tool :(
+Damn... Screw this fucking pycrypto build... :(
+You can do programming easier in pycrypto... but configuring it is so hard..
+Why should i install a 3GB junk food into my system called as visual studio which was my ex-bf.
+All i need is their redistributable C++ package and i have already stored in my laptop refrigerator.. as well as g++
+What else?
+This is what happens when men build tools... they make everything complicated just like their reproductive-system-internals.
+If you have studied zoology...then you have known how much it's hard to draw their internals.
+And we got complicated issues here.. Boo Boo! (-_-)
+
+Need some break! And then... continue this! :(

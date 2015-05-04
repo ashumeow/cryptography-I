@@ -1,0 +1,7 @@
+Pre-Requistes for requirements:-
+If you're not having visual studio installed and No .NET framework, then don't worry.
+Install Microsoft Visual C++ 2010 redistributable package for x64 (or) x86 depending your system.
+
+Then...requirements:-
+$git clone https://github.com/dlitz/pycrypto.git
+After that, setup the build and install it..

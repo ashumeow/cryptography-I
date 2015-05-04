@@ -1,8 +1,28 @@
-Pre-Requistes for requirements:-
-1. Python 2.7 and above
-2. If you're not having visual studio installed and No .NET framework, then don't worry.
-Install Microsoft Visual C++ 2010 redistributable package for x64 (or) x86 depending your system.
-
-Then...requirements:-
+requirements:-
 $git clone https://github.com/dlitz/pycrypto.git
 After that, setup the build and install it..
+
+Pre-Requistes for requirements:-
+1. Git
+2. Python 2.7 and above (I'm using 2.7 here)
+3. If you're not having visual studio installed and No .NET framework, then don't worry.
+Install Microsoft Visual C++ 2010 redistributable package for x64 (or) x86 depending your system.
+[update] It never worked inspite of already having VC++ 10
+Then, installed VC++ 8
+Along with it...
+$easy_install zipline
+$pip install wheels
+Then... navigated to python27/Lib/distutils
+Typed the following...
+
+[build]
+compiler=mingw32
+
+And saved it as distutils.cfg
+
+Then...
+$ cd "/c/python27/pycrypto"
+
+$ python setup.py install build --compiler=mingw32
+
+Damn... Screw this fucking tool :(

@@ -1,5 +1,6 @@
 Pre-Requistes for requirements:-
-If you're not having visual studio installed and No .NET framework, then don't worry.
+1. Python 2.7 and above
+2. If you're not having visual studio installed and No .NET framework, then don't worry.
 Install Microsoft Visual C++ 2010 redistributable package for x64 (or) x86 depending your system.
 
 Then...requirements:-

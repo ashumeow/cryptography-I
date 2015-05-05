@@ -18,7 +18,20 @@ or direct download
 ```
 Choice 2: ruby
 I tried ruby 2.2 x64...
+Advantage is that we don't require to download any dependencies like we suffer with Python..
+It smoothly executes with Git.
+I'm an amateur in all programming languages... But, openssl and digest are good rb-crypto buddies..
 
-
+```
 Choice 3: crypto++
 Didn't try though...
+
+```
+Choice 4: Java
+Didn't try though... there are some open references available
+
+```
+Choice 5: Javascript
+There is stanford SJCL reference available...and many online JS cbc as well as ctr libraries available.
+Few require npm, whereas few also runs without npm.
+```

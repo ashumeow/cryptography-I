@@ -1,4 +1,4 @@
-#Attempts:- 3/100
+Attempts:- 3/100
 <br><br>
 Final Score:- 4/4
 <br><br>

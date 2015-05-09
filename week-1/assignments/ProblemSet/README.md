@@ -8,4 +8,4 @@ Attempt #3 - 8.45/8.45 <br>
 <br>
 <br>
 // TODO <br>
-Need to provide explanations and solutions for the remaining questions and re-modify few of them by the end of May 1st week.
+Need to provide explanations and solutions for the remaining questions and re-modify few of them by the end of the course.

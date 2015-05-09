@@ -10,7 +10,7 @@ Attempt #4 - 9/9 (Finally...)<br>
 <br>
 Experience: <br>
 Week-2 was little bit difficult for me both in problem set and programming assignment. <br>
-I thought that i might quit. But... Duh! I made it through week-2. (^_^)<br>
+I thought that i might quit. But... Duh! I did it. (^_^)<br>
 <br>
 // TODO <br>
-Need to provide explanations and solutions for the remaining questions and re-modify few of them by the end of the course.
+Need to provide explanations and solutions for the remaining questions by the end of the course.

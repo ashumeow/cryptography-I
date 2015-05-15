@@ -9,3 +9,7 @@ I.B.<a href="http://spark-university.s3.amazonaws.com/stanford-crypto/slides/02-
 II. Week-2<br>
 II.A.<a href="http://spark-university.s3.amazonaws.com/stanford-crypto/slides/03-block-v2-annotated.pdf">Block Ciphers</a><br>
 II.B.<a href="http://spark-university.s3.amazonaws.com/stanford-crypto/slides/04-using-block-v2-annotated.pdf">Using Block Ciphers</a><br><br>
+III. Week-3<br>
+III.A.<a href="http://spark-university.s3.amazonaws.com/stanford-crypto/slides/05-integrity-v2-annotated.pdf">Message Integrity</a><br>
+III.B.<a href="http://spark-university.s3.amazonaws.com/stanford-crypto/slides/06-collision-resistance-v2-annotated.pdf">Collision Resistance</a><br>
+<br>

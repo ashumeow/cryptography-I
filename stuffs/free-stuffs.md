@@ -1,6 +1,7 @@
 <b>Free books:</b> <br>
 [1] <a href="http://cacr.uwaterloo.ca/hac/">Handbook of Applied Cryptography</a><br>
 [2] <a href="http://www.cse.hcmut.edu.vn/~ttqnguyet/Downloads/SIS/1_Information%20Security%20-%20Principles%20&%20Practice%20(2006).pdf">Information Security Principles and Practice</a><br>
+[3] <a href="https://leanpub.com/gocrypto/read">Practical Cryptography with Go</a><br>
 <br>
 <b>Free chapters:</b><br>
 [1] Principles of Computer System Design: Introduction <br>

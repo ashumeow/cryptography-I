@@ -37,3 +37,9 @@ In particular, the hex encoded h0 for <a href="https://class.coursera.org/crypto
 03c08f4ee0b576fe319338139c045c89c3e8e9409633bea29442e21425006ea8
 ```
 <b>Solution:</b>
+<br>
+For Ruby --> <a href="https://github.com/ashumeow/cryptography-I/blob/master/week-3/assignments/_ExtraCredit/solution_ruby.md">Click here</a><br>
+For Python --> <a href="https://github.com/ashumeow/cryptography-I/blob/master/week-3/assignments/_ExtraCredit/solution_python.md">Click here</a><br>
+<br>
+<b>Related Lectures:</b><br>
+[1] <a href="">Collision Resistance</a>

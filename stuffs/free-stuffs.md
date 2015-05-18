@@ -12,7 +12,7 @@
 <br>
 <b>Other university notes:</b><br>
 [1] <a href="http://www.cs.berkeley.edu/~luca/cs276/">CS276 - Spring 2009 - University of Berkeley</a><br>
-[2] <a href="https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&cad=rja&uact=8&ved=0CFIQFjAH&url=https%3A%2F%2Fusers.ece.cmu.edu%2F~dbrumley%2Fcourses%2F18487-f13%2Fpowerpoint%2F12-crypto-mac-hashes.pptx&ei=gVZZVaLyEoOwUbOegbAO&usg=AFQjCNFY1wNXwu3TOKRQY-AB8HLMt5_O8Q&sig2=YTRQY2rd5ClJ_dk2AyIzGA&bvm=bv.93564037,d.d24">MACs and hashes</a><br>
+[2] <a href="https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&cad=rja&uact=8&ved=0CFIQFjAH&url=https%3A%2F%2Fusers.ece.cmu.edu%2F~dbrumley%2Fcourses%2F18487-f13%2Fpowerpoint%2F12-crypto-mac-hashes.pptx&ei=gVZZVaLyEoOwUbOegbAO&usg=AFQjCNFY1wNXwu3TOKRQY-AB8HLMt5_O8Q&sig2=YTRQY2rd5ClJ_dk2AyIzGA&bvm=bv.93564037,d.d24">MACs and hashes - Carnegie Mellon University</a><br>
 <br>
 <b>Tools help:</b><br>
 [1] <a href="http://www.cryptopp.com/">Crypto++</a><br>

@@ -9,6 +9,7 @@
 <br>
 <b>Self-study:</b><br>
 [1] <a href="https://www.schneier.com/paper-self-study.pdf">A self-study course in Block Cipher Cryptanalysis</a><br>
+[2] <a href="https://developer.apple.com/library/ios/documentation/Security/Conceptual/SecureCodingGuide/SecureCodingGuide.pdf">Apple - Secure Coding Guide</a><br>
 <br>
 <b>Other university notes:</b><br>
 [1] <a href="http://www.cs.berkeley.edu/~luca/cs276/">CS276 - Spring 2009 - University of Berkeley</a><br>

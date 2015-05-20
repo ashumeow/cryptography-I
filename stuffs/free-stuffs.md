@@ -10,6 +10,7 @@
 <b>Self-study:</b><br>
 [1] <a href="https://www.schneier.com/paper-self-study.pdf">A self-study course in Block Cipher Cryptanalysis</a><br>
 [2] <a href="https://developer.apple.com/library/ios/documentation/Security/Conceptual/SecureCodingGuide/SecureCodingGuide.pdf">Apple - Secure Coding Guide</a><br>
+[3] <a href="http://blog.cryptographyengineering.com/p/useful-cryptography-resources.html">Useful Cryptography Resources</a><br>
 <br>
 <b>Other university notes:</b><br>
 [1] <a href="http://www.cs.berkeley.edu/~luca/cs276/">CS276 - Spring 2009 - University of Berkeley</a><br>
@@ -20,3 +21,7 @@
 <br>
 <b>Wikipedia:</b><br>
 [1] <a href="http://en.wikipedia.org/wiki/Block_cipher_mode_of_operation">Block Cipher Mode</a><br>
+<br>
+<b>Articles:</b><br>
+[1] <a href="http://blog.cryptographyengineering.com/2013/02/why-i-hate-cbc-mac.html">Why I hate CBC-MAC?</a><br>
+<br>

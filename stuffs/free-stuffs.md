@@ -29,6 +29,9 @@
 <b>Articles:</b><br>
 [1] <a href="http://blog.cryptographyengineering.com/2013/02/why-i-hate-cbc-mac.html">Why I hate CBC-MAC?</a><br>
 <br>
+<b>Papers:</b><br>
+[1] <a href="http://research.microsoft.com/pubs/151070/state.pdf">Methods of Symmetric Cryptanalysis</a><br>
+<br>
 <b>Thesis:</b><br>
 [1] <a href="https://uwspace.uwaterloo.ca/bitstream/handle/10012/5532/Zaverucha_Gregory.pdf">Hash Families and Cover-Free Families with Cryptographic Applications</a><br>
 <br>

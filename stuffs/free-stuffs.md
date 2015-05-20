@@ -26,3 +26,6 @@
 <b>Articles:</b><br>
 [1] <a href="http://blog.cryptographyengineering.com/2013/02/why-i-hate-cbc-mac.html">Why I hate CBC-MAC?</a><br>
 <br>
+<b>Patents:</b><br>
+[1] <a href="http://www.google.co.in/patents/US7949129">Method and apparatus for facilitating efficient authenticated encryption</a><br>
+<br>

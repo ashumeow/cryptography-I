@@ -31,6 +31,12 @@
 <br>
 <b>Papers:</b><br>
 [1] <a href="http://research.microsoft.com/pubs/151070/state.pdf">Methods of Symmetric Cryptanalysis</a><br>
+[2] <i>Recommended papers by Professor Dan Boneh on Message integrity for further readings:-</i><br>
+[2.A] <a href="http://web.cs.ucdavis.edu/~rogaway/papers/3k.pdf">CBC MACs for Arbitrary-Length Messages: The Three-Key Constructions</a><br>
+[2.B] <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.296.6734&rep=rep1&type=pdf">A Tight Bound for EMAC</a><br>
+[2.C] <a href="https://eprint.iacr.org/2001/027.pdf">A Block-Cipher Mode of Operation for Parallelizable Message Authentication</a><br>
+[2.D] <a href="https://eprint.iacr.org/2006/043.pdf">New Proofs for NMAC and HMAC: Security without Collision-Resistance</a><br>
+[2.E] <a href="https://www.iacr.org/archive/eurocrypt2008/49650197/49650197.pdf">A New Mode of Operation for Block Ciphers and Length-Preserving MACs</a><br>
 <br>
 <b>Thesis:</b><br>
 [1] <a href="https://uwspace.uwaterloo.ca/bitstream/handle/10012/5532/Zaverucha_Gregory.pdf">Hash Families and Cover-Free Families with Cryptographic Applications</a><br>

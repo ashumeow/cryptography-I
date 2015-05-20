@@ -2,6 +2,8 @@
 [1] <a href="http://cacr.uwaterloo.ca/hac/">Handbook of Applied Cryptography</a><br>
 [2] <a href="http://www.cse.hcmut.edu.vn/~ttqnguyet/Downloads/SIS/1_Information%20Security%20-%20Principles%20&%20Practice%20(2006).pdf">Information Security Principles and Practice</a><br>
 [3] <a href="https://leanpub.com/gocrypto/read">Practical Cryptography with Go</a><br>
+[4] <a href="https://online.tugraz.at/tug_online/voe_main2.getvolltext?pCurrPk=58178">Cryptanalysis of AES-Based Hash Functions</a><br>
+[5] <a href="http://www.staff.science.uu.nl/~tel00101/liter/Books/CrypCont.pdf">Cryptography in Context</a><br>
 <br>
 <b>Free chapters:</b><br>
 [1] Principles of Computer System Design: Introduction <br>

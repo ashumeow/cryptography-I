@@ -21,12 +21,16 @@
 <br>
 <b>Tools help:</b><br>
 [1] <a href="http://www.cryptopp.com/">Crypto++</a><br>
+[2] <a href="https://github.com/dlitz/pycrypto">PyCrypto</a><br>
 <br>
 <b>Wikipedia:</b><br>
 [1] <a href="http://en.wikipedia.org/wiki/Block_cipher_mode_of_operation">Block Cipher Mode</a><br>
 <br>
 <b>Articles:</b><br>
 [1] <a href="http://blog.cryptographyengineering.com/2013/02/why-i-hate-cbc-mac.html">Why I hate CBC-MAC?</a><br>
+<br>
+<b>Thesis:</b><br>
+[1] <a href="https://uwspace.uwaterloo.ca/bitstream/handle/10012/5532/Zaverucha_Gregory.pdf">Hash Families and Cover-Free Families with Cryptographic Applications</a><br>
 <br>
 <b>Patents:</b><br>
 [1] <a href="http://www.google.co.in/patents/US7949129">Method and apparatus for facilitating efficient authenticated encryption</a><br>

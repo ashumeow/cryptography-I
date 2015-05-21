@@ -14,6 +14,7 @@
 [2] <a href="https://developer.apple.com/library/ios/documentation/Security/Conceptual/SecureCodingGuide/SecureCodingGuide.pdf">Apple - Secure Coding Guide</a><br>
 [3] <a href="http://blog.cryptographyengineering.com/p/useful-cryptography-resources.html">Useful Cryptography Resources</a><br>
 [4] <a href="http://web.cs.ucdavis.edu/~rogaway/ocb/ocb-back.htm">OCB - Background</a><br>
+[5] <a href="http://www.ioinformatics.org/locations/ioi01/contest/A-2001-7.pdf">IOI’01 Competition - International Olympiad</a><br>
 <br>
 <b>Other university notes:</b><br>
 [1] <a href="http://www.cs.berkeley.edu/~luca/cs276/">CS276 - Spring 2009 - University of Berkeley</a><br>
@@ -83,6 +84,9 @@
 [3.K] <a href="http://www.garykessler.net/library/crypto.html#refs">References and further readings</a><br>
 [3.L] <a href="http://www.garykessler.net/library/crypto.html#mathnotes">Some Math notes</a><br>
 [3.M] <a href="http://www.garykessler.net/library/crypto.html#author">About author</a><br>
+[4] <a href="https://eprint.iacr.org/2012/322.pdf">Revisiting Dedicated and Block Cipher based Hash Functions</a><br>
+[5] <a href="http://www.ccs.neu.edu/home/viola/papers/spn.pdf">Substitution-permutation networks, pseudorandom functions, and natural proofs</a><br>
+[6] <a href="https://hal.inria.fr/inria-00556679/file/sac10b.pdf">Attacks on Hash Functions based on Generalized Feistel – Application to Reduced-Round Lesamnta and Shavite-3-512</a><br>
 <br>
 <b>Thesis:</b><br>
 [1] <a href="https://uwspace.uwaterloo.ca/bitstream/handle/10012/5532/Zaverucha_Gregory.pdf">Hash Families and Cover-Free Families with Cryptographic Applications</a><br>

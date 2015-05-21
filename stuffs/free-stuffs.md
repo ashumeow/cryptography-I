@@ -30,6 +30,7 @@
 <b>Articles:</b><br>
 [1] <a href="http://blog.cryptographyengineering.com/2013/02/why-i-hate-cbc-mac.html">Why I hate CBC-MAC?</a><br>
 [2] <a href="https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_SSL.html">HTTP Security with SSL</a><br>
+[3] <a href="http://www.prism.uvsq.fr/~jap/Articles/eprint%20Generic%20Attacks%20on%20Feistel%20Schemes.pdf">Generic Attacks on Feistel Schemes</a><br>
 <br>
 <b>Papers:</b><br>
 [1] <a href="http://research.microsoft.com/pubs/151070/state.pdf">Methods of Symmetric Cryptanalysis</a><br>

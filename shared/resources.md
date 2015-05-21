@@ -13,3 +13,7 @@ III. Week-3<br>
 III.A.<a href="http://spark-university.s3.amazonaws.com/stanford-crypto/slides/05-integrity-v2-annotated.pdf">Message Integrity</a><br>
 III.B.<a href="http://spark-university.s3.amazonaws.com/stanford-crypto/slides/06-collision-resistance-v2-annotated.pdf">Collision Resistance</a><br>
 <br>
+IV. Week-4 <br>
+IV.A.<a href="http://spark-university.s3.amazonaws.com/stanford-crypto/slides/07-authenc-v2-annotated.pdf">Authenticated Encryption</a><br>
+IV.B.<a href="http://spark-university.s3.amazonaws.com/stanford-crypto/slides/08-odds-and-ends-v2-annotated.pdf">Odds and Ends</a><br>
+<br>

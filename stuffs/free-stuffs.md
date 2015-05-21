@@ -37,6 +37,50 @@
 [2.C] <a href="https://eprint.iacr.org/2001/027.pdf">A Block-Cipher Mode of Operation for Parallelizable Message Authentication</a><br>
 [2.D] <a href="https://eprint.iacr.org/2006/043.pdf">New Proofs for NMAC and HMAC: Security without Collision-Resistance</a><br>
 [2.E] <a href="https://www.iacr.org/archive/eurocrypt2008/49650197/49650197.pdf">A New Mode of Operation for Block Ciphers and Length-Preserving MACs</a><br>
+[3] <i><a href="http://www.garykessler.net/library/crypto.html">An Overview of Cryptography</a></i><br>
+[3.A] Related Papers<br>
+[3.A.1] <a href="http://www-ee.stanford.edu/~hellman/publications/24.pdf">New Directions in Cryptography</a><br>
+[3.A.2] <a href="http://people.csail.mit.edu/rivest/Rsapaper.pdf">A Method for Obtaining Digital Signatures and Public-Key Cryptosystems</a><br>
+[3.A.3] <a href="http://www.merkle.com/1974/PuzzlesAsPublished.pdf">Secure Communications Over Insecure Channels</a><br>
+[3.A.4] <a href="http://www.csee.wvu.edu/~katerina/Teaching/CS-465-Spring-2007/HashStandards.pdf">Cryptographic Hash Standards - Where Do We Go from Here?</a><br>
+[3.A.5] <a href="http://cryptography.hyperlink.cz/md5/MD5_collisions.pdf">Finding MD5 Collisions – a Toy For a Notebook </a><br>
+[3.A.6] <a href="http://eprint.iacr.org/2004/199.pdf">Collisions for Hash Functions - MD4, MD5, HAVAL-128 and RIPEMD</a><br>
+[3.A.7] <a href="http://www.c4i.org/erehwon/shanote.pdf">Collision Search Attacks on SHA1</a><br>
+[3.A.8] <a href="http://sponge.noekeon.org/">The Sponge Functions Corner</a><br>
+[3.A.9] <a href="https://www.schneier.com/paper-keylength.html">Minimal Key Lengths for Symmetric Ciphers to Provide Adequate Commercial Security</a><br>
+[3.A.10] <a href="http://pages.cs.wisc.edu/~rist/papers/HoneyEncryptionpre.pdf">Honey Encryption: Security Beyond the Brute-Force Bound</a><br>
+[3.A.11] <a href="http://download-v2.springer.com/static/pdf/9/chp%253A10.1007%252F978-3-642-13241-4_21.pdf?token2=exp=1432177737~acl=%2Fstatic%2Fpdf%2F9%2Fchp%25253A10.1007%25252F978-3-642-13241-4_21.pdf*~hmac=cb632100945e619a57b10aaf13ee5fa3c03404a8773ab513241c75ab8a43460a">Detecting Hidden Encrypted Volumes </a> [<a href="http://link.springer.com/chapter/10.1007%2F978-3-642-13241-4_21">source</a>]<br>
+[3.B] Algorithms<br>
+[3.B.1] <a href="http://www.users.zetnet.co.uk/hopwood/crypto/scan/md.html">Message Digest Algorithms</a><br>
+[3.C] Related articles <br>
+[3.C.1] <a href="http://www.win.tue.nl/hashclash/rogue-ca/">MD5 considered harmful today</a><br>
+[3.C.2] <a href="http://www.win.tue.nl/hashclash/Nostradamus/">Predicting the winner of the 2008 US Presidential Elections using a Sony PlayStation 3</a><br>
+[3.C.3] <a href="http://www.technologyreview.com/news/523746/honey-encryption-will-bamboozle-attackers-with-fake-secrets/">“Honey Encryption” Will Bamboozle Attackers with Fake Secrets</a><br>
+[3.D] Related Blogs<br>
+[3.D.1] <a href="http://www.secureworks.com/resources/blog/category/counter-threat-unit-research/">Dell - Secure works</a><br>
+[3.D.2] <a href="http://digital-forensics.sans.org/blog/2009/01/07/law-is-not-a-science-admissibility-of-computer-evidence-and-md5-hashes/">SANS Digital Forensics and Incident Response Blog</a><br>
+[3.E] Related wiki<br>
+[3.E.1] <a href="http://ehash.iaik.tugraz.at/wiki/The_SHA-3_Zoo">SHA-3 Zoo</a><br>
+[3.F] Related Presentations<br>
+[3.F.1] <a href="http://www.dfrws.org/2006/proceedings/12-Kornblum-pres.pdf">Fuzzy Hashing</a><br>
+[3.F.2] <a href="http://www.slideshare.net/LookoutInc/heartbleed-android">Heartbleed + Android - A not-so love story</a><br>
+[3.G] Related Thesis<br>
+[3.G.1] <a href="http://www.cs.ru.ac.za/research/g06c5476/Honours/CryptoProtos2009Cowie.pdf">Analysis and Processing of Cryptographic Protocols</a><br>
+[3.H] Related Links<br>
+[3.H.1] <a href="http://www.garykessler.net/library/byte_logic_table.html">Crypto table</a> and <a href="http://www.garykessler.net/software/cisco7.zip">download package</a><br>
+[3.I] TrueCrypt and CipherShed<br>
+[3.I.1] <a href="http://en.wikipedia.org/wiki/TrueCrypt">TrueCrypt - Wikipedia </a><br>
+[3.I.2] <a href="https://github.com/FreeApophis/TrueCrypt">TrueCrypt - Source code</a><br>
+[3.I.3] <a href="http://truecrypt.sourceforge.net/">Migrating from TrueCrypt to BitLocker</a><br>
+[3.I.4] <a href="https://www.grc.com/misc/truecrypt/truecrypt.htm">TrueCrypt - final release</a><br>
+[3.I.5] <a href="https://ciphershed.org/">CipherShed - Homepage</a><br>
+[3.I.6] <a href="http://www.ghacks.net/2014/09/19/truecrypt-may-live-on-after-all-as-ciphershed/">TrueCrypt may live on after all as CipherShed</a><br>
+[3.I.7] <a href="http://www.garykessler.net/library/crypto/TrueCrypt%20User%20Guide.pdf">TrueCrypt - User guide</a><br>
+[3.J] Related works<br>
+[3.J.1] <a href="http://petitcolas.net/kerckhoffs/index.html">La cryptographie militaire</a> (en français) <br>
+[3.K] <a href="http://www.garykessler.net/library/crypto.html#refs">References and further readings</a><br>
+[3.L] <a href="http://www.garykessler.net/library/crypto.html#mathnotes">Some Math notes</a><br>
+[3.M] <a href="http://www.garykessler.net/library/crypto.html#author">About author</a><br>
 <br>
 <b>Thesis:</b><br>
 [1] <a href="https://uwspace.uwaterloo.ca/bitstream/handle/10012/5532/Zaverucha_Gregory.pdf">Hash Families and Cover-Free Families with Cryptographic Applications</a><br>

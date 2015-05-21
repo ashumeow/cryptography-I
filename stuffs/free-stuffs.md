@@ -37,7 +37,7 @@
 [2.C] <a href="https://eprint.iacr.org/2001/027.pdf">A Block-Cipher Mode of Operation for Parallelizable Message Authentication</a><br>
 [2.D] <a href="https://eprint.iacr.org/2006/043.pdf">New Proofs for NMAC and HMAC: Security without Collision-Resistance</a><br>
 [2.E] <a href="https://www.iacr.org/archive/eurocrypt2008/49650197/49650197.pdf">A New Mode of Operation for Block Ciphers and Length-Preserving MACs</a><br>
-[3] <i><a href="http://www.garykessler.net/library/crypto.html">An Overview of Cryptography</a></i><br>
+[3] <b><i><a href="http://www.garykessler.net/library/crypto.html">An Overview of Cryptography</a></b></i><br>
 [3.A] Related Papers<br>
 [3.A.1] <a href="http://www-ee.stanford.edu/~hellman/publications/24.pdf">New Directions in Cryptography</a><br>
 [3.A.2] <a href="http://people.csail.mit.edu/rivest/Rsapaper.pdf">A Method for Obtaining Digital Signatures and Public-Key Cryptosystems</a><br>
@@ -56,6 +56,7 @@
 [3.C.1] <a href="http://www.win.tue.nl/hashclash/rogue-ca/">MD5 considered harmful today</a><br>
 [3.C.2] <a href="http://www.win.tue.nl/hashclash/Nostradamus/">Predicting the winner of the 2008 US Presidential Elections using a Sony PlayStation 3</a><br>
 [3.C.3] <a href="http://www.technologyreview.com/news/523746/honey-encryption-will-bamboozle-attackers-with-fake-secrets/">“Honey Encryption” Will Bamboozle Attackers with Fake Secrets</a><br>
+[3.C.4] <a href="http://newsoffice.mit.edu/2010/explained-shannon-0115">The Shannon limit</a><br>
 [3.D] Related Blogs<br>
 [3.D.1] <a href="http://www.secureworks.com/resources/blog/category/counter-threat-unit-research/">Dell - Secure works</a><br>
 [3.D.2] <a href="http://digital-forensics.sans.org/blog/2009/01/07/law-is-not-a-science-admissibility-of-computer-evidence-and-md5-hashes/">SANS Digital Forensics and Incident Response Blog</a><br>
@@ -68,6 +69,7 @@
 [3.G.1] <a href="http://www.cs.ru.ac.za/research/g06c5476/Honours/CryptoProtos2009Cowie.pdf">Analysis and Processing of Cryptographic Protocols</a><br>
 [3.H] Related Links<br>
 [3.H.1] <a href="http://www.garykessler.net/library/byte_logic_table.html">Crypto table</a> and <a href="http://www.garykessler.net/software/cisco7.zip">download package</a><br>
+[3.H.2] <a href="http://www.garykessler.net/library/password.html">Passwords - Strength and Weakness</a><br>
 [3.I] TrueCrypt and CipherShed<br>
 [3.I.1] <a href="http://en.wikipedia.org/wiki/TrueCrypt">TrueCrypt - Wikipedia </a><br>
 [3.I.2] <a href="https://github.com/FreeApophis/TrueCrypt">TrueCrypt - Source code</a><br>

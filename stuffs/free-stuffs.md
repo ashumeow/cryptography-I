@@ -90,3 +90,6 @@
 <b>Patents:</b><br>
 [1] <a href="http://www.google.co.in/patents/US7949129">Method and apparatus for facilitating efficient authenticated encryption</a><br>
 <br>
+<b>Great Crypto minds:</b><br>
+[1] <a href="http://en.wikipedia.org/wiki/Alan_Turing">Alan Turing - Father of theoretical computer science and artificial intelligence</a><br>
+[2] <a href="http://en.wikipedia.org/wiki/Claude_Shannon">Claude Shannon - Father of information theory</a><br>

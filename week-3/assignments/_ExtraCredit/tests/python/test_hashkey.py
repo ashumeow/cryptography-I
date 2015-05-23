@@ -1,3 +1,5 @@
+## NOTE: This is "not" the solution for the programming assignment (extra credit).
+
 import sys
 
 ## adding raw hex

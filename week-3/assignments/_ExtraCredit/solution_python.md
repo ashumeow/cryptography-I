@@ -1,4 +1,4 @@
-Only Solution hints (almost 75%) will be provided... 
+Only Solution hints (almost 75%) will be provided with <a href="https://github.com/ashumeow/cryptography-I/tree/master/week-3/assignments/_ExtraCredit/tests/python">some more</a>... ;)
 <br><br>
 Headers ;)
 ```py

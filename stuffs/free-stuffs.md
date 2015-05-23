@@ -24,6 +24,9 @@
 [1] <a href="http://www.cryptopp.com/">Crypto++</a><br>
 [2] <a href="https://github.com/dlitz/pycrypto">PyCrypto</a><br>
 <br>
+<b>In-built tools:</b><br>
+[1] <a href="http://www.xorbin.com/tools">XOR-bin</a><br>
+<br>
 <b>Wikipedia:</b><br>
 [1] <a href="http://en.wikipedia.org/wiki/Block_cipher_mode_of_operation">Block Cipher Mode</a><br>
 <br>

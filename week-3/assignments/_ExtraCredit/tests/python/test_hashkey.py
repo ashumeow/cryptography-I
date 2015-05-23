@@ -19,3 +19,5 @@ e1.close()
 e2.close()
 e3.close()
 e4.close()
+
+## This sample code script has been extracted from the coursera discussion forum.

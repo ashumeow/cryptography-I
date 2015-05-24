@@ -4,6 +4,9 @@
 [3] <a href="https://leanpub.com/gocrypto/read">Practical Cryptography with Go</a><br>
 [4] <a href="https://online.tugraz.at/tug_online/voe_main2.getvolltext?pCurrPk=58178">Cryptanalysis of AES-Based Hash Functions</a><br>
 [5] <a href="http://www.staff.science.uu.nl/~tel00101/liter/Books/CrypCont.pdf">Cryptography in Context</a><br>
+[6] <a href="ftp://nozdr.ru/biblioteka/kolxo3/Cs_Computer_science/CsCr_Cryptography/Joye%20M.,%20Tunstall%20M.%20(eds.)%20Fault%20Analysis%20in%20Cryptography%20(Springer,%202012)(ISBN%209783642296550)(O)(352s)_CsCr_.pdf">Fault Analysis in Cryptography</a><br>
+[7] <a href="http://ir.nmu.org.ua/bitstream/handle/123456789/141487/631a849b3f93e3c7ecb3019d8e2223d4.pdf?sequence=1">Wireless Mobile Internet Security</a><br>
+[8] <a href="http://math.scu.edu/~eschaefe/book.pdf">An introduction to cryptography and cryptanalysis</a><br>
 <br>
 <b>Free chapters:</b><br>
 [1] Principles of Computer System Design: Introduction <br>

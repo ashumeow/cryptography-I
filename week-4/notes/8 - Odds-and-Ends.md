@@ -39,5 +39,19 @@ II.A.<a href="http://geekresearchlab.net/coursera/crypto1/11-4.jpg">Theorem</a><
 II.B.<a href="http://geekresearchlab.net/coursera/crypto1/11-5.jpg">EME: Constructing a wide block PRP</a><br>
 II.C.<a href="http://geekresearchlab.net/coursera/crypto1/11-6.jpg">PRP-based Free deterministic auth. encryption</a><br>
 II.D.<a href="http://geekresearchlab.net/coursera/crypto1/11-7.jpg">PRP-based deterministic auth. encryption</a>
+<b>
 ```
+4. Tweakable Encrytion
 ```
+</b>
+I. Disk Encryption<br>
+I.A.<a href="http://geekresearchlab.net/coursera/crypto1/tweak-1.jpg">Lemma</a><br>
+I.B.<a href="http://geekresearchlab.net/coursera/crypto1/tweak-2.jpg">How it's done and it's problem?</a><br>
+I.C.<a href="http://geekresearchlab.net/coursera/crypto1/tweak-3.jpg">Solution</a><br>
+I.D.<a href="http://geekresearchlab.net/coursera/crypto1/tweak-4.jpg">Much better solution -- Tweakable block ciphers</a> and 
+<a href="http://geekresearchlab.net/coursera/crypto1/tweak-5.jpg">Secure tweakable block ciphers</a><br>
+I.D.I.<a href="http://geekresearchlab.net/coursera/crypto1/tweak-6.jpg">Example 1: Trivial Construction</a><br>
+I.D.II.<a href="http://geekresearchlab.net/coursera/crypto1/tweak-7.jpg">Example 2: XTS tweakable block cipher</a><br>
+I.D.III.<a href="http://geekresearchlab.net/coursera/crypto1/tweak-8.jpg">Question related to it.</a>
+I.E.<a href="http://geekresearchlab.net/coursera/crypto1/tweak-9.jpg">Disk Encryption using XTS</a><br>
+II.<a href="http://geekresearchlab.net/coursera/crypto1/tweak-10.jpg">Summary</a>

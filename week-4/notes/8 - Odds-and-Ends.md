@@ -12,8 +12,6 @@ V.<a href="http://geekresearchlab.net/coursera/crypto1/key-5.jpg">Extract-then-E
 VI.<a href="http://geekresearchlab.net/coursera/crypto1/key-6.jpg">HKDF</a><br>
 <code>HKDF is a KDF from HMAC.</code><br>
 VII.<a href="http://geekresearchlab.net/coursera/crypto1/key-7.jpg">Password-based KDF (PBKDF)</a>
-```
-```
 <b>
 ```
 2. Deterministic Encryption
@@ -26,6 +24,8 @@ II.Problem (<a href="http://geekresearchlab.net/coursera/crypto1/det-2.jpg">Part
 III.<a href="http://geekresearchlab.net/coursera/crypto1/det-3.jpg">Solution</a><br>
 IV.<a href="http://geekresearchlab.net/coursera/crypto1/det-4.jpg">Deterministic CPA Security</a><br>
 V.<a href="http://geekresearchlab.net/coursera/crypto1/det-5.jpg">Common mistakes</a><br>
-VI.<a href="http://geekresearchlab.net/coursera/crypto1/det-6.jpg">Question on whether counter mode is CPA secure or not</a><br>
+VI.<a href="http://geekresearchlab.net/coursera/crypto1/det-6.jpg">Question on whether counter mode is CPA secure or not</a>
+<b>
 ```
 ```
+</b>

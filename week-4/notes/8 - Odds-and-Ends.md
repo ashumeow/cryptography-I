@@ -55,3 +55,17 @@ I.D.II.<a href="http://geekresearchlab.net/coursera/crypto1/tweak-7.jpg">Example
 I.D.III.<a href="http://geekresearchlab.net/coursera/crypto1/tweak-8.jpg">Question related to it.</a><br>
 I.E.<a href="http://geekresearchlab.net/coursera/crypto1/tweak-9.jpg">Disk Encryption using XTS</a><br>
 II.<a href="http://geekresearchlab.net/coursera/crypto1/tweak-10.jpg">Summary</a>
+<b>
+```
+5. Format preserving encryption
+```
+</b>
+I.<a href="http://geekresearchlab.net/coursera/crypto1/preserve-1.jpg">Encrypting credit card numbers</a><br>
+II.<a href="http://geekresearchlab.net/coursera/crypto1/preserve-2.jpg">Format Preserving Encryption (FPS)</a><br>
+III.Construction <br>
+III.A.<a href="http://geekresearchlab.net/coursera/crypto1/preserve-3.jpg">Step-1</a><br>
+III.B.<a href="http://geekresearchlab.net/coursera/crypto1/preserve-4.jpg">Step-2</a><br>
+III.C.<a href="http://geekresearchlab.net/coursera/crypto1/preserve-5.jpg">Security</a><br>
+```
+```
+<a href="http://geekresearchlab.net/coursera/crypto1/xyz.jpg">FURTHER READINGS</a>

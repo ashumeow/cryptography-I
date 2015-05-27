@@ -27,5 +27,17 @@ V.<a href="http://geekresearchlab.net/coursera/crypto1/det-5.jpg">Common mistake
 VI.<a href="http://geekresearchlab.net/coursera/crypto1/det-6.jpg">Question on whether counter mode is CPA secure or not</a>
 <b>
 ```
+3. Deterministic Encryption : SIV and PRP
 ```
-</b>
+Construction of Deterministic Encryption <br></b>
+I. Construction 1: Synethrtic IV (SIV) <br>
+I.A.<a href="http://geekresearchlab.net/coursera/crypto1/11-1.jpg">Theorem</a><br>
+I.B.<a href="http://geekresearchlab.net/coursera/crypto1/11-2.jpg">Ensuring ciphertext integrity</a><br>
+I.C.<a href="http://geekresearchlab.net/coursera/crypto1/11-3.jpg">Free deterministic auth. encryption</a><br>
+II. Construction 2: Using PRP <br>
+II.A.<a href="http://geekresearchlab.net/coursera/crypto1/11-4.jpg">Theorem</a><br>
+II.B.<a href="http://geekresearchlab.net/coursera/crypto1/11-5.jpg">EME: Constructing a wide block PRP</a><br>
+II.C.<a href="http://geekresearchlab.net/coursera/crypto1/11-6.jpg">PRP-based Free deterministic auth. encryption</a><br>
+II.D.<a href="http://geekresearchlab.net/coursera/crypto1/11-7.jpg">PRP-based deterministic auth. encryption</a>
+```
+```

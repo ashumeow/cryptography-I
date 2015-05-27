@@ -41,7 +41,7 @@ II.C.<a href="http://geekresearchlab.net/coursera/crypto1/11-6.jpg">PRP-based Fr
 II.D.<a href="http://geekresearchlab.net/coursera/crypto1/11-7.jpg">PRP-based deterministic auth. encryption</a>
 <b>
 ```
-4. Tweakable Encrytion
+4. Tweakable Encryption
 ```
 </b>
 I. Disk Encryption<br>

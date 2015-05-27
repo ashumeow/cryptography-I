@@ -52,6 +52,6 @@ I.D.<a href="http://geekresearchlab.net/coursera/crypto1/tweak-4.jpg">Much bette
 <a href="http://geekresearchlab.net/coursera/crypto1/tweak-5.jpg">Secure tweakable block ciphers</a><br>
 I.D.I.<a href="http://geekresearchlab.net/coursera/crypto1/tweak-6.jpg">Example 1: Trivial Construction</a><br>
 I.D.II.<a href="http://geekresearchlab.net/coursera/crypto1/tweak-7.jpg">Example 2: XTS tweakable block cipher</a><br>
-I.D.III.<a href="http://geekresearchlab.net/coursera/crypto1/tweak-8.jpg">Question related to it.</a>
+I.D.III.<a href="http://geekresearchlab.net/coursera/crypto1/tweak-8.jpg">Question related to it.</a><br>
 I.E.<a href="http://geekresearchlab.net/coursera/crypto1/tweak-9.jpg">Disk Encryption using XTS</a><br>
 II.<a href="http://geekresearchlab.net/coursera/crypto1/tweak-10.jpg">Summary</a>

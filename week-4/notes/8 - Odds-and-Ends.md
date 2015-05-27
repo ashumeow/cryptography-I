@@ -66,6 +66,5 @@ III.Construction <br>
 III.A.<a href="http://geekresearchlab.net/coursera/crypto1/preserve-3.jpg">Step-1</a><br>
 III.B.<a href="http://geekresearchlab.net/coursera/crypto1/preserve-4.jpg">Step-2</a><br>
 III.C.<a href="http://geekresearchlab.net/coursera/crypto1/preserve-5.jpg">Security</a><br>
-```
-```
+<br>
 <a href="http://geekresearchlab.net/coursera/crypto1/xyz.jpg">FURTHER READINGS</a>

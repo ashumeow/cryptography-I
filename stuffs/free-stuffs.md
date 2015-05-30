@@ -96,6 +96,13 @@
 [4] <a href="https://eprint.iacr.org/2012/322.pdf">Revisiting Dedicated and Block Cipher based Hash Functions</a><br>
 [5] <a href="http://www.ccs.neu.edu/home/viola/papers/spn.pdf">Substitution-permutation networks, pseudorandom functions, and natural proofs</a><br>
 [6] <a href="https://hal.inria.fr/inria-00556679/file/sac10b.pdf">Attacks on Hash Functions based on Generalized Feistel – Application to Reduced-Round Lesamnta and Shavite-3-512</a><br>
+[7] <i>Recommended papers by Professor Dan Boneh on "Authenticated Encryption" for further readings:- </i><br>
+[7.A] <a href="https://www.iacr.org/archive/crypto2001/21390309.pdf">The Order of Encryption and Authentication for Protecting Communications</a><br>
+(or how secure is SSL?) <br>
+[7.B] <a href="http://web.cs.ucdavis.edu/~rogaway/papers/ad.pdf">Authenticated Encryption with Associated-Data</a><br>
+[7.C] <a href="http://canvel.free.fr/crypto/pdf/crypto03.pdf">Password Interception in a SSL/TLS Channel</a><br>
+[7.D] <a href="http://isg.rhul.ac.uk/~kp/SandPfinal.pdf">Plaintext Recovery Attacks against SSH</a><br>
+[7.E] <a href="https://www.cs.columbia.edu/~smb/papers/badesp.pdf">Problem areas for the IP security protocols</a><br>
 <br>
 <b>Thesis:</b><br>
 [1] <a href="https://uwspace.uwaterloo.ca/bitstream/handle/10012/5532/Zaverucha_Gregory.pdf">Hash Families and Cover-Free Families with Cryptographic Applications</a><br>

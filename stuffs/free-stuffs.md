@@ -7,6 +7,7 @@
 [6] List of all free cryptography books (ftp://nozdr.ru/biblioteka/kolxo3/Cs_Computer_science/CsCr_Cryptography) (a href tag doesn't work for ftp urls)<br>
 [7] <a href="http://ir.nmu.org.ua/bitstream/handle/123456789/141487/631a849b3f93e3c7ecb3019d8e2223d4.pdf?sequence=1">Wireless Mobile Internet Security</a><br>
 [8] <a href="http://math.scu.edu/~eschaefe/book.pdf">An introduction to cryptography and cryptanalysis</a><br>
+[9] <a href="http://ir.nmu.org.ua/bitstream/handle/123456789/121624/ac7c48a3a355ac1cfc34e8d9fab69be8.pdf?sequence=1">Wireless Sensor Network Security</a><br>
 <br>
 <b>Free chapters:</b><br>
 [1] Principles of Computer System Design: Introduction <br>

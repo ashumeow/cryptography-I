@@ -17,3 +17,7 @@ IV. Week-4 <br>
 IV.A.<a href="http://spark-university.s3.amazonaws.com/stanford-crypto/slides/07-authenc-v2-annotated.pdf">Authenticated Encryption</a><br>
 IV.B.<a href="http://spark-university.s3.amazonaws.com/stanford-crypto/slides/08-odds-and-ends-v2-annotated.pdf">Odds and Ends</a><br>
 <br>
+V. Week-5<br>
+V.A.<a href="http://spark-university.s3.amazonaws.com/stanford-crypto/slides/09-basic-key-exchange-annotated.pdf">Basic key exchange</a><br>
+V.B.<a href="http://spark-university.s3.amazonaws.com/stanford-crypto/slides/10-numth-annotated.pdf">Intro. Number Theory</a><br>
+<br>

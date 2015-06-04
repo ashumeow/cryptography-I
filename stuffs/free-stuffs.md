@@ -103,6 +103,9 @@
 [7.C] <a href="http://canvel.free.fr/crypto/pdf/crypto03.pdf">Password Interception in a SSL/TLS Channel</a><br>
 [7.D] <a href="http://isg.rhul.ac.uk/~kp/SandPfinal.pdf">Plaintext Recovery Attacks against SSH</a><br>
 [7.E] <a href="https://www.cs.columbia.edu/~smb/papers/badesp.pdf">Problem areas for the IP security protocols</a><br>
+[8] <i>Recommended papers by Professor Dan Boneh on "Basic Key Exchange" for further readings:- </i><br>
+[8.A] <a href="http://www.boazbarak.org/Papers/merkle.pdf">Merkle Puzzles are Optimal</a><br>
+[8.B] <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.49.8224&rep=rep1&type=pdf">On Formal Models for Secure Key Exchange</a><br>
 <br>
 <b>Thesis:</b><br>
 [1] <a href="https://uwspace.uwaterloo.ca/bitstream/handle/10012/5532/Zaverucha_Gregory.pdf">Hash Families and Cover-Free Families with Cryptographic Applications</a><br>

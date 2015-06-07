@@ -6,6 +6,11 @@ Python module used: <code>numbthy</code>
 import sys
 import numbthy
 ```
+```py
+## main program
+
+## Explore by yourself (^_^)
+```
 ```
 If you don't have Visual Studio and If you don't have .NET framework, then use "numbthy".
 No dependencies required.

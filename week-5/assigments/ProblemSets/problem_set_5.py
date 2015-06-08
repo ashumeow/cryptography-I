@@ -39,14 +39,15 @@ print "Modular inverse for", a, "=", invmod(a, n)
 ## the value of a and b came as 7, 23
 ## but i was adding in answer column as 10, -3
 ## i feel so dumb, my mind went somewhere
-## Why did i add as -3
+## Why did i add as -3??
+## -3 makes no sense. It was like adding coffee with cheese instead of sugar.
 ## the python execution came as 7, 23 for a and b
-## something is wrong with me.
+## Something is wrong with me. Meow! :(
 
 ## the inverse answer came as 10 while executing, 
 ## but it was wrong mathematically.
 
-## i think that the value of inv(a, b) => 1, 
+## i think that the value of inv(a, b) must come as 1, 
 ## but mine is wrong since i got inv(a, b) => 10
 
 ## Related link

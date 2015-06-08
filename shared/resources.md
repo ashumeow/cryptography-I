@@ -21,3 +21,6 @@ V. Week-5<br>
 V.A.<a href="http://spark-university.s3.amazonaws.com/stanford-crypto/slides/09-basic-key-exchange-annotated.pdf">Basic key exchange</a><br>
 V.B.<a href="http://spark-university.s3.amazonaws.com/stanford-crypto/slides/10-numth-annotated.pdf">Intro. Number Theory</a><br>
 <br>
+VI. Week-6<br>
+VI.A.<a href="http://spark-university.s3.amazonaws.com/stanford-crypto/slides/11-pubkey-trapdoor-annotated.pdf">Public Key Encryption from trapdoor permutations</a><br>
+VI.B.<a href="http://spark-university.s3.amazonaws.com/stanford-crypto/slides/12-pubkey-dh-annotated.pdf">Public key encryption from Diffie-Hellman</a><br>

@@ -111,7 +111,15 @@
 [9] <a href="http://www.shoup.net/papers/">Victor Shoup's research papers</a><br>
 [10] <i>Recommended papers by Professor Dan Boneh on "Public key encryption - Trapdoor permutation":- </i><br>
 [10.A] <a href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.20.3923">Why chosen ciphertext security matters?</a><br>
-[10.B] <a href=""></a><br>
+[10.B] <a href="http://crypto.stanford.edu/~dabo/papers/RSA-survey.pdf">Twenty years of attacks on the RSA cryptosystem</a><br>
+[10.C] <a href="http://www.shoup.net/papers/oaep.pdf">OAEP reconsidered</a><br>
+[10.D] <a href="http://infoscience.epfl.ch/record/164539/files/NPDF-32.pdf">Key Lengths</a><br>
+[11] <i>Recommended papers by Professor Dan Boneh on "Public key encryption - Diffie Hellman":- </i><br>
+[11.A] The Decision Diffie-Hellman problem <br>
+[11.B] Universal hash proofs and a paradigm for chosen ciphertext secure public key encryption <br>
+[11.C] Chosen-ciphertext security from Identity-Based Encryption <br>
+[11.D] The twin diffie-hellman problem and applications <br>
+[11.E] Efficient chosen-ciphertext security via extractable hash proofs <br>
 <br>
 <b>Thesis:</b><br>
 [1] <a href="https://uwspace.uwaterloo.ca/bitstream/handle/10012/5532/Zaverucha_Gregory.pdf">Hash Families and Cover-Free Families with Cryptographic Applications</a><br>

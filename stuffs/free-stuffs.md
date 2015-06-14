@@ -108,6 +108,10 @@
 [8] <i>Recommended papers by Professor Dan Boneh on "Basic Key Exchange" for further readings:- </i><br>
 [8.A] <a href="http://www.boazbarak.org/Papers/merkle.pdf">Merkle Puzzles are Optimal</a><br>
 [8.B] <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.49.8224&rep=rep1&type=pdf">On Formal Models for Secure Key Exchange</a><br>
+[9] <a href="http://www.shoup.net/papers/">Victor Shoup's research papers</a><br>
+[10] <i>Recommended papers by Professor Dan Boneh on "Public key encryption - Trapdoor permutation":- </i><br>
+[10.A] <a href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.20.3923">Why chosen ciphertext security matters?</a><br>
+[10.B] <a href=""></a><br>
 <br>
 <b>Thesis:</b><br>
 [1] <a href="https://uwspace.uwaterloo.ca/bitstream/handle/10012/5532/Zaverucha_Gregory.pdf">Hash Families and Cover-Free Families with Cryptographic Applications</a><br>

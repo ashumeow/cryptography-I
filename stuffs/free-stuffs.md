@@ -19,6 +19,7 @@
 [3] <a href="http://blog.cryptographyengineering.com/p/useful-cryptography-resources.html">Useful Cryptography Resources</a><br>
 [4] <a href="http://web.cs.ucdavis.edu/~rogaway/ocb/ocb-back.htm">OCB - Background</a><br>
 [5] <a href="http://www.ioinformatics.org/locations/ioi01/contest/A-2001-7.pdf">IOI’01 Competition - International Olympiad</a><br>
+[6] <a href="https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=10&cad=rja&uact=8&ved=0CFkQFjAJahUKEwj04oGS9I3GAhVJchQKHdUwAHE&url=http%3A%2F%2Fwww.unizar.es%2Fmatematicas%2Fpersonales%2Fpjmiana_archivos%2FTeoriadenumeros%2FMaterialRelacionado%2Fbooktot.pdf&ei=98d8VbSLH8nkUdXhgIgH&usg=AFQjCNEWvuxR7G-bam-gOvFze7_I8yBKCw&sig2=moN-flVwI25W3g45NjIhSA&bvm=bv.95515949,d.d24">Elementary Number Theory</a><br>
 <br>
 <b>Other university notes:</b><br>
 [1] <a href="http://www.cs.berkeley.edu/~luca/cs276/">CS276 - Spring 2009 - University of Berkeley</a><br>
